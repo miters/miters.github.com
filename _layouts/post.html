@@ -1,45 +1,50 @@
-<!DOCTYPE HTML>
+---
+layout: default
+---
 
-<html>
-	<head>
-    {% include head.html %}
-	</head>
-	<body class="is-loading">
+<div class="post">
+  <div class="post-info">
+    {% if page.date %}
+      <time datetime="{{ page.date }}">{{ page.date | date: "%B %d, %Y" }}</time>
+    {% endif %}
+  </div>
 
-		<!-- Wrapper -->
-			<div id="wrapper" class="fade-in">
+  <h1 class="post-title">{{ page.title }}</h1>
+  <div class="post-line"></div>
 
-				<!-- Header -->
-        <header id="header">
-          <a href="{{ "/" | absolute_url }}" class="logo">{{site.title}}</a>
-        </header>
+  {{ content }}
 
-				<!-- Nav -->
-					<nav id="nav">
-            {% include nav.html %}
-					</nav>
+</div>
 
-				<!-- Main -->
-				<div id="main">
-          <section class="post">
-    				<header class="major">
-      				<span class="date">{{page.date | date_to_string}}</span>
-      				<h1>{{page.title}}</h1>
-      				<p>{{page.excerpt}}</p>
-      			</header>
-      			<div class="image main"><img src="{{page.image}}" alt=""></div>
-      			<p>{{content}}</p>
-      		</section>
+{% if page.tags %}
+<div class="tags">
+  Tags:
+  {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tags#{{ tag }}" class="tag">&#35;{{ tag }}</a>
+  {% endfor %}
+</div>
+{% endif %}
 
-					</div>
+<div class="pagination">
+  {% if page.next.url %}
+    <a href="{{ page.next.url | prepend: site.baseurl }}" class="left arrow">&#8592;</a>
+  {% endif %}
+  {% if page.previous.url %}
+    <a href="{{ page.previous.url | prepend: site.baseurl }}" class="right arrow">&#8594;</a>
+  {% endif %}
 
-				<!-- Footer -->
-        {% include foot.html %}
+  <a href="#" class="top">Top</a>
+</div>
 
-			</div>
+{% if page.math %}
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+  </script>
+{% endif %}
 
-      <!-- Scripts -->
-  		{% include scripts-main.html %}
-
-	</body>
-</html>
+{% if page.gallery %}
+  {% for src in page.other_image_sources %}
+    <script src="{{ "/assets/img/sizes/" | relative_url }}{{ src }}.js"></script>
+  {% endfor %}
+  <script src = "{{ "/assets/img/sizes/" | relative_url }}{{ page.id | remove_first: '/' | replace: '/', '-' }}.js"></script>
+  <script src="{{ "/assets/js/photoswipe-initializer.js" | relative_url }}"></script>
+{% endif %}
