@@ -206,7 +206,9 @@ var initPhotoSwipeFromDOM = function(gallerySelector) {
 
 var preprocessPhotoSwipeFromDOM = function(gallerySelector) {
 	var baseFileName = location.href.split("/").slice(-2);
-	baseFileName = baseFileName[0] + '-' + baseFileName[1].split("#")[0];
+    console.log("base filename is")
+    console.log(baseFileName)
+	baseFileName = baseFileName[1].split("#")[0];
 
 	var parseImages = function(el) {
         var thumbElements = el.childNodes,
@@ -226,7 +228,7 @@ var preprocessPhotoSwipeFromDOM = function(gallerySelector) {
             if (imageName.indexOf("-") == -1) {
             	imageName = baseFileName + "-" + imageName;
                 large = imageName + ".jpg";
-                thumb = "thumbnail/" + imageName + "_thumb_800.jpg";
+                thumb = "thumbnail-autogen/" + imageName + "_thumb_800.jpg";
             	imageBase = baseFileName;
             } else {
                 extension = imageName.substring(imageName.lastIndexOf("."));
@@ -236,13 +238,18 @@ var preprocessPhotoSwipeFromDOM = function(gallerySelector) {
                     imageName = imageName.substring(0, imageName.lastIndexOf("."));
                 }
                 large = imageName + extension;
-                thumb = "thumbnail/" + imageName + "_thumb_800" + extension;
+                thumb = "thumbnail-autogen/" + imageName + "_thumb_800" + extension;
             	imageBase = imageName.substring(0, imageName.lastIndexOf("-"));
             }
 
             var a = document.createElement("a");
             a.setAttribute("href", "{{ site.baseurl }}/assets/img/" + large);
 
+            console.log(SIZES);
+            console.log(imageBase);
+            console.log(SIZES[imageBase])
+            console.log(imageName);
+            console.log(SIZES[imageBase][imageName])
             a.setAttribute("data-size", SIZES[imageBase][imageName]);
 
             var innerThumbnail = document.createElement("img");
