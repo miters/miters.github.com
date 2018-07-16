@@ -78,7 +78,7 @@ Check out tale on [GitHub](https://github.com/chesterhow/tale).
 ![Image with caption](https://placehold.it/700x400 "Image with caption")
 _This is an image with a caption_
 
-![Local image]({{ "/assets/img/thumbnail/2018-04-09-chocolate-crinkles-1_thumb_800.jpg" | absolute_url }} "mouseover")_caption_
+![Local image]({{ "/assets/img/2018-07-15-example-content-1.jpg" | absolute_url }} "mouseover")_caption_
 {% endhighlight %}
 
 
@@ -87,20 +87,20 @@ _This is an image with a caption_
 ![Image with caption](https://placehold.it/700x400 "Image with caption")
 _This is an image with a caption_
 
-![Local image]({{ "/assets/img/thumbnail/2018-04-09-chocolate-crinkles-1_thumb_800.jpg" | absolute_url }} "mouseover")_caption_
+![Local image]({{ "/assets/img/2018-07-15-example-content-1.jpg" | absolute_url }} "mouseover")_caption_
 
 # Image Galleries
 
 {% highlight html %}
 <div class="gallery">
   <figure name="1" alt="Image description" caption="caption 1"></figure>
-  <figure name="2018-04-09-chocolate-crinkles-1" alt="Image description" caption="caption 2"></figure>
+  <figure name="2018-07-15-example-html-1" alt="Image description" caption="caption 2"></figure>
 </div>
 {% endhighlight %}
 
 <div class="gallery">
   <figure name="1" alt="Image description" caption="caption 1"></figure>
-  <figure name="2018-04-09-chocolate-crinkles-1" alt="Image description" caption="caption 2"></figure>
+  <figure name="2018-07-15-example-html-1" alt="Image description" caption="caption 2"></figure>
 </div>
 
 # Code and Syntax Highlighting
