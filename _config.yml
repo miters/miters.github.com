@@ -35,7 +35,7 @@ plugins:
   - jekyll-seo-tag
 
 # Permalinks
-permalink:      /:year-:month-:day/:title
+permalink:      /posts/:title
 paginate:       10
 
 exclude: ['README.md', 'LICENSE.md', 'Gemfile.lock', 'Gemfile']

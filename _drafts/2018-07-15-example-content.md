@@ -2,8 +2,6 @@
 layout: post
 title: "Example Content"
 author: "Landon"
-tags:
-- default
 gallery: true
 ---
 
