@@ -1,0 +1,1 @@
+if (typeof SIZES == 'undefined') {var SIZES = {}}; SIZES['example-content'] ={"example-content-1": "1008x574", "example-content-2": "508x310"};
