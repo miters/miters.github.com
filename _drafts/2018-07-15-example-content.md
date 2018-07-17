@@ -96,13 +96,13 @@ _This is an image with a caption_
 {% highlight html %}
 <div class="gallery">
   <figure name="1" alt="Image description" caption="caption 1"></figure>
-  <figure name="example-html-1" alt="Image description" caption="caption 2"></figure>
+  <figure name="example-html-1.jpg" alt="Image description" caption="caption 2"></figure>
 </div>
 {% endhighlight %}
 
 <div class="gallery">
   <figure name="1" alt="Image description" caption="caption 1"></figure>
-  <figure name="example-html-1" alt="Image description" caption="caption 2"></figure>
+  <figure name="example-html-1.jpg" alt="Image description" caption="caption 2"></figure>
 </div>
 
 # Code and Syntax Highlighting
