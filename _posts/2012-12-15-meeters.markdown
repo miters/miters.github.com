@@ -1,0 +1,17 @@
+---
+author: charlesg
+comments: true
+date: 2012-12-15 09:34:06+00:00
+layout: post
+link: http://10.0.0.76/index.php/2012/12/15/meeters/
+slug: meeters
+title: MEETERS!
+wordpress_id: 1173
+categories:
+- Events
+---
+
+The semesterly MITERS End-of-Every-Term Research Showcase (MEETERS) was tonight! About 20 to 25 people were in attendance throughout the night, projects were demonstrated and presented, and pizza was had by all.
+
+
+[![](http://miters.mit.edu/wp-content/uploads/2012/12/2012-12-14-21.36.00.jpg)](http://miters.mit.edu/wp-content/uploads/2012/12/2012-12-14-21.36.00.jpg)

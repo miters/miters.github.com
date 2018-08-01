@@ -1,0 +1,20 @@
+---
+author: charlesg
+comments: true
+date: 2009-02-28 21:47:21+00:00
+layout: post
+link: http://10.0.0.76/index.php/2009/02/28/o-hai/
+slug: o-hai
+title: o hai
+wordpress_id: 69
+categories:
+- Electrical
+- Mechanical
+- Projects
+---
+
+i has a miters 4u
+
+Actually no. But when I said "1 kilowatt Razor scooter", I wasn't kidding.
+
+[![that's what she said.](http://miters.mit.edu/wp-content/uploads/2012/10/sc3_26.jpg)](http://www.etotheipiplusone.net/pics/sc3/sc3_26.jpg)

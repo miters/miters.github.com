@@ -1,0 +1,14 @@
+---
+author: charlesg
+comments: true
+date: 2010-06-30 06:17:44+00:00
+layout: post
+link: http://10.0.0.76/index.php/2010/06/30/we-do/
+slug: we-do
+title: We do.
+wordpress_id: 337
+categories:
+- Building Party
+---
+
+![](http://www.etotheipiplusone.net/pics/kart/lolriokart.jpg)

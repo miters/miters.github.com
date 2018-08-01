@@ -1,0 +1,41 @@
+---
+author: loneoceans
+comments: true
+date: 2013-05-17 16:16:00+00:00
+layout: post
+link: http://10.0.0.76/index.php/2013/05/17/drsstc-2/
+slug: drsstc-2
+title: DRSSTC 2
+wordpress_id: 1827
+---
+
+Greetings everyone!
+
+With the semester almost ending, I'm glad that my second DRSS-Tesla Coil is finally done! DRSSTC 2 began almost a year ago with the goal of making my first tesla coil using brick-style IGBTs.
+
+
+![Tesla Coil 2](http://miters.mit.edu/wp-content/uploads/2013/05/8731596738_cac8608421_z_d2.jpg)
+  
+**_DRSSTC makes 4 feet of sparks look easy, in MITERS**_
+
+**First Version**
+
+The project began when I bought two Toshiba IGBT half-bridge modules on ebay, good for 150A 600V. The original plan was to build a compact and powerful DRSSTC running this full bridge, with about a foot long secondary. The coil also uses a revised version of Steve Ward's UD2 as the driver. After many months of work, I finally got everything put together. Unfortunately, initial tests were worrying, and I soon found out that one of my IGBTs was half-dead. With the lack of time and money, I wasn't able to continue with these bricks.
+
+**Revision 2**
+
+I managed to get hold of a CM200DU-24F 200A 1200V IGBT and decided to make a half-bridge coil instead. The CM200 bricks are larger, so I wasn't able to fit a fullbridge inside the box I had already made. Finally, this worked perfectly and everything came together.
+
+Specifications:
+
+    - CM200 Half Bridge
+    - 208VAC input (2 leads from 3 Phase, though the coil was designed for 240VAC operation)
+    - 13" x 3.5"Secondary, ~2000 turns
+    - 16" x 4" Toroid (I want to get a spun one someday)
+**_
+  
+Video of the coil in action!**_
+
+For more information, please visit [www.loneoceans.com/labs/](www.loneoceans.com/labs/) - writeup with full details in progress!
+
+:)

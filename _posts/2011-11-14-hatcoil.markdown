@@ -1,0 +1,22 @@
+---
+author: admin
+comments: true
+date: 2011-11-14 06:55:21+00:00
+layout: post
+link: http://10.0.0.76/index.php/2011/11/14/hatcoil/
+slug: hatcoil
+title: HATCOIL!
+wordpress_id: 686
+categories:
+- Electrical
+- Projects
+tags:
+- hatcoil
+---
+
+What madness has [Tyler](http://tcengineering.wordpress.com/) been up to lately?
+
+
+
+
+# ハーットコイル!!!!
