@@ -14,12 +14,11 @@ wordpress_id: 5222
 
 fan sled?
 
-[https://www.youtube.com/watch?v=w0IGhmKxNY0](https://www.youtube.com/watch?v=w0IGhmKxNY0)
-
+<iframe width="800" height="450" src="https://www.youtube.com/embed/w0IGhmKxNY0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ski EV bike -> motor fire :(
 
-[https://www.youtube.com/watch?v=SCIw5v9vZ4k](https://www.youtube.com/watch?v=SCIw5v9vZ4k)
+<iframe width="800" height="450" src="https://www.youtube.com/embed/SCIw5v9vZ4k" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
 and ski scooter... video from recent blizzard sometime soon, in the meantime:

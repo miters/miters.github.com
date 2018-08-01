@@ -45,7 +45,7 @@ invited to come and make awesome things. Come check out all these awesome
 projects and get some ideas flowing for a project of your own!
 
 What is MITERS? Watch the documentary about us:
-[http://www.youtube.com/watch?v=jvLvdmiMQkU](http://www.youtube.com/watch?v=jvLvdmiMQkU)
+<iframe width="800" height="450" src="https://www.youtube.com/embed/jvLvdmiMQkU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 [miters.mit.edu](http://miters.mit.edu/)
 

@@ -20,7 +20,9 @@ categories:
 - miterspageforwordpress
 ---
 
-Harlem Shake + Tesla coils at MITERS! [http://www.youtube.com/watch?v=kMQltc7uIKI](http://l.facebook.com/l.php?u=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DkMQltc7uIKI&h=AAQHons8V&s=1)  
+Harlem Shake + Tesla coils at MITERS!
+
+<iframe width="800" height="450" src="https://www.youtube.com/embed/kMQltc7uIKI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>  
   
 [![](https://fbexternal-a.akamaihd.net/safe_image.php?d=AQDBhp2CInDQQjHt&w=130&h=130&url=http%3A%2F%2Fi4.ytimg.com%2Fvi%2FkMQltc7uIKI%2Fmqdefault.jpg)](http://l.facebook.com/l.php?u=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DkMQltc7uIKI&h=AAQHons8V&s=1)  
 [Harlem Shake [Tesla coil edition] @MITERS](http://l.facebook.com/l.php?u=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DkMQltc7uIKI&h=vAQEHw6IJ&s=1)  
