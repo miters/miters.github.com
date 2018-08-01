@@ -3,10 +3,11 @@ author: nkirkby
 comments: true
 date: 2014-04-12 06:25:14+00:00
 layout: post
-link: http://10.0.0.76/index.php/2014/04/12/roboting/
+
 slug: roboting
 title: roboting
 wordpress_id: 3335
 ---
 
 
+<iframe width="800" height="450" src="https://www.youtube.com/embed/yXGM2-Rjcvs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

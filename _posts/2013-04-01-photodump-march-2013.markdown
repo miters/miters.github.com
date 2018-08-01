@@ -3,7 +3,7 @@ author: nouyang
 comments: true
 date: 2013-04-01 11:56:40+00:00
 layout: post
-link: http://10.0.0.76/index.php/2013/04/01/photodump-march-2013/
+
 slug: photodump-march-2013
 title: Photodump, March 2013
 wordpress_id: 1524

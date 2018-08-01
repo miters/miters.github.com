@@ -3,7 +3,7 @@ author: martian
 comments: true
 date: 2009-03-30 22:58:14+00:00
 layout: post
-link: http://10.0.0.76/index.php/2009/03/30/happy-lathe/
+
 slug: happy-lathe
 title: Happy Lathe
 wordpress_id: 121

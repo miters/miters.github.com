@@ -3,7 +3,7 @@ author: charlesg
 comments: true
 date: 2012-03-29 05:29:39+00:00
 layout: post
-link: http://10.0.0.76/index.php/2012/03/29/joint-engineering-effort-with-the-georgia-tech-invention-studio/
+
 slug: joint-engineering-effort-with-the-georgia-tech-invention-studio
 title: Joint Engineering Effort with the Georgia Tech Invention Studio
 wordpress_id: 866

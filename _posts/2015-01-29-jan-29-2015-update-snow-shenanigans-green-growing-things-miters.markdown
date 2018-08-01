@@ -3,7 +3,7 @@ author: nouyang
 comments: true
 date: 2015-01-29 07:15:46+00:00
 layout: post
-link: http://10.0.0.76/index.php/2015/01/29/jan-29-2015-update-snow-shenanigans-green-growing-things-miters/
+
 slug: jan-29-2015-update-snow-shenanigans-green-growing-things-miters
 title: 'Jan 29, 2015 Update: Snow shenanigans, green growing things @ MITERS'
 wordpress_id: 5222
@@ -14,12 +14,11 @@ wordpress_id: 5222
 
 fan sled?
 
-[https://www.youtube.com/watch?v=w0IGhmKxNY0](https://www.youtube.com/watch?v=w0IGhmKxNY0)
-
+<iframe width="800" height="450" src="https://www.youtube.com/embed/w0IGhmKxNY0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ski EV bike -> motor fire :(
 
-[https://www.youtube.com/watch?v=SCIw5v9vZ4k](https://www.youtube.com/watch?v=SCIw5v9vZ4k)
+<iframe width="800" height="450" src="https://www.youtube.com/embed/SCIw5v9vZ4k" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
 and ski scooter... video from recent blizzard sometime soon, in the meantime:
@@ -28,10 +27,8 @@ and ski scooter... video from recent blizzard sometime soon, in the meantime:
 
 
 
-[Tundra Mode](http://vimeo.com/89869097) from [Dane Kouttron](http://vimeo.com/user3733658) on [Vimeo](https://vimeo.com).
-
-
-
+<iframe src="https://player.vimeo.com/video/89869097" width="800" height="450" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/89869097">Tundra Mode</a> from <a href="https://vimeo.com/user3733658">Dane Kouttron</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 
 here are some green things growing at MITERS

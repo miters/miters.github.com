@@ -3,7 +3,7 @@ author: admin
 comments: true
 date: 2011-12-16 14:55:03+00:00
 layout: post
-link: http://10.0.0.76/index.php/2011/12/16/motorized-vehicles-high-voltage-things-that-glow-meeters-6-to-10pm-friday-today-your-cool-project-too/
+
 slug: motorized-vehicles-high-voltage-things-that-glow-meeters-6-to-10pm-friday-today-your-cool-project-too
 title: motorized vehicles, high voltage, things that glow! MEETERS, 6 to 10pm Friday
   (today); your cool project too?
@@ -45,7 +45,7 @@ invited to come and make awesome things. Come check out all these awesome
 projects and get some ideas flowing for a project of your own!
 
 What is MITERS? Watch the documentary about us:
-[http://www.youtube.com/watch?v=jvLvdmiMQkU](http://www.youtube.com/watch?v=jvLvdmiMQkU)
+<iframe width="800" height="450" src="https://www.youtube.com/embed/jvLvdmiMQkU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 [miters.mit.edu](http://miters.mit.edu/)
 

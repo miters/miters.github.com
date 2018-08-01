@@ -3,7 +3,7 @@ author: charlesg
 comments: true
 date: 2009-11-29 18:03:01+00:00
 layout: post
-link: http://10.0.0.76/index.php/2009/11/29/miters-entropy-decreases-by-a-factor-of-9000/
+
 slug: miters-entropy-decreases-by-a-factor-of-9000
 title: MITERS Entropy Decreases by a Factor of 9000
 wordpress_id: 244

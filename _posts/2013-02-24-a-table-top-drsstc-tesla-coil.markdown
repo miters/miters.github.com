@@ -3,7 +3,7 @@ author: loneoceans
 comments: true
 date: 2013-02-24 06:24:24+00:00
 layout: post
-link: http://10.0.0.76/index.php/2013/02/24/a-table-top-drsstc-tesla-coil/
+
 slug: a-table-top-drsstc-tesla-coil
 title: A Table Top DRSSTC Tesla Coil
 wordpress_id: 1351
@@ -28,7 +28,7 @@ tags:
 
 Hi everyone,
 
-Introducing my **first DRSSTC. **It's a small tesla coil made to be portable and to make lightning at home. This coil is based of the amazing oneTesla pcb. I'm still in the process of doing a detailed write up at [http://www.loneoceans.com/labs/drsstc1/](http://www.loneoceans.com/labs/drsstc1/)!
+Introducing my *first DRSSTC.* It's a small tesla coil made to be portable and to make lightning at home. This coil is based of the amazing oneTesla pcb. I'm still in the process of doing a detailed write up at [http://www.loneoceans.com/labs/drsstc1/](http://www.loneoceans.com/labs/drsstc1/)!
 
 ![](http://miters.mit.edu/wp-content/uploads/2013/02/8502807104_68a141fd5e_c2.jpg)
 
@@ -82,5 +82,3 @@ This coil currently has a tiny built-in 19VDC laptop power supply for the electr
 Best Wishes!
 
  -  Guangyan
-    23 Feb 2013
-    [www.loneoceans.com/labs/](http://www.loneoceans.com/labs/)

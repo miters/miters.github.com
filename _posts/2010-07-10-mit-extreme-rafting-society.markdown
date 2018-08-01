@@ -3,7 +3,7 @@ author: Emily
 comments: true
 date: 2010-07-10 20:27:19+00:00
 layout: post
-link: http://10.0.0.76/index.php/2010/07/10/mit-extreme-rafting-society/
+
 slug: mit-extreme-rafting-society
 title: MIT Extreme Rafting Society
 wordpress_id: 358

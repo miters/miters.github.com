@@ -3,7 +3,7 @@ author: nouyang
 comments: true
 date: 2011-12-09 01:29:08+00:00
 layout: post
-link: http://10.0.0.76/index.php/2011/12/08/were-you-ever-intimidated-by-miters/
+
 slug: were-you-ever-intimidated-by-miters
 title: Were you ever intimidated by MITERS?
 wordpress_id: 702

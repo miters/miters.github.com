@@ -3,7 +3,7 @@ author: charlesg
 comments: true
 date: 2009-06-24 04:18:48+00:00
 layout: post
-link: http://10.0.0.76/index.php/2009/06/23/another-fine-miters-product/
+
 slug: another-fine-miters-product
 title: Another fine MITERS product
 wordpress_id: 189

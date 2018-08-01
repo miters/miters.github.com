@@ -3,7 +3,7 @@ author: nouyang
 comments: true
 date: 2011-10-24 18:27:40+00:00
 layout: post
-link: http://10.0.0.76/index.php/2011/10/24/nyancat-party/
+
 slug: nyancat-party
 title: Nyancat party
 wordpress_id: 640

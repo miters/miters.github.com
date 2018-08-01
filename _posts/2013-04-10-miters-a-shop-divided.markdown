@@ -3,7 +3,7 @@ author: nkirkby
 comments: true
 date: 2013-04-10 17:15:49+00:00
 layout: post
-link: http://10.0.0.76/index.php/2013/04/10/miters-a-shop-divided/
+
 slug: miters-a-shop-divided
 title: 'MITERS: A shop divided'
 wordpress_id: 1604

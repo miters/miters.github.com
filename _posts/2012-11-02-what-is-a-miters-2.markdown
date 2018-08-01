@@ -3,7 +3,7 @@ author: nouyang
 comments: true
 date: 2012-11-02 08:21:45+00:00
 layout: post
-link: http://10.0.0.76/index.php/2012/11/02/what-is-a-miters-2/
+
 slug: what-is-a-miters-2
 title: What is a MITERS?
 wordpress_id: 1072

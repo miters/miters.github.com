@@ -3,7 +3,7 @@ author: charlesg
 comments: true
 date: 2011-12-10 06:58:22+00:00
 layout: post
-link: http://10.0.0.76/index.php/2011/12/10/whats-been-happening-at-miters-lately/
+
 slug: whats-been-happening-at-miters-lately
 title: What's been happening at miters lately?!
 wordpress_id: 709

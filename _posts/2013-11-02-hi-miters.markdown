@@ -3,7 +3,7 @@ author: nouyang
 comments: true
 date: 2013-11-02 06:26:12+00:00
 layout: post
-link: http://10.0.0.76/index.php/2013/11/02/hi-miters/
+
 slug: hi-miters
 title: HI MITERS!
 wordpress_id: 2539
