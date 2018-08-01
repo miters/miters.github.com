@@ -6,7 +6,7 @@ excerpt: GUYS WHAT DID YOU DO  http://isawyou.mit.edu/post.php?id=9160I Saw You 
   | East Campusisawyou.mit.eduA forum for posting and browsing missed connections
   at MIT.
 layout: post
-link: http://10.0.0.76/index.php/2013/03/18/guys-what-did-you-dohttpisawyou-mit-edupost-phpid9160/
+
 slug: guys-what-did-you-dohttpisawyou-mit-edupost-phpid9160
 title: 'GUYS WHAT DID YOU DO
 

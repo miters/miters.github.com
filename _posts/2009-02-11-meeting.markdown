@@ -3,7 +3,7 @@ author: martian
 comments: true
 date: 2009-02-11 15:55:55+00:00
 layout: post
-link: http://10.0.0.76/index.php/2009/02/11/meeting/
+
 slug: meeting
 title: Meeting!
 wordpress_id: 8

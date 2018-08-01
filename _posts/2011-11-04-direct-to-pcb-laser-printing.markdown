@@ -3,7 +3,7 @@ author: muffin
 comments: true
 date: 2011-11-04 14:51:40+00:00
 layout: post
-link: http://10.0.0.76/index.php/2011/11/04/direct-to-pcb-laser-printing/
+
 slug: direct-to-pcb-laser-printing
 title: Direct-to-PCB Laser Printing
 wordpress_id: 669

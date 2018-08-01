@@ -6,7 +6,7 @@ excerpt: TMRC Halloween? http://www.youtube.com/watch?v=8PCp5xk-9Qo&amp;feature=
   is a fully playable version of Tetris built into a pumpkin, with 128 LEDs for the
   display and the stem serving as a game controller.
 layout: post
-link: http://10.0.0.76/index.php/2012/10/30/tmrc-halloween-httpwww-youtube-comwatchv8pcp5xk-9qofeatureyoutu-be/
+
 slug: tmrc-halloween-httpwww-youtube-comwatchv8pcp5xk-9qofeatureyoutu-be
 title: TMRC Halloween? http://www.youtube.com/watch?v=8PCp5xk-9Qo&feature=youtu.be
 wordpress_id: 1070

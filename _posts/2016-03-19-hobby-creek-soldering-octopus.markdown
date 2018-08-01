@@ -3,7 +3,7 @@ author: Rebecca
 comments: true
 date: 2016-03-19 00:30:25+00:00
 layout: post
-link: http://10.0.0.76/index.php/2016/03/18/hobby-creek-soldering-octopus/
+
 slug: hobby-creek-soldering-octopus
 title: Hobby Creek Soldering Octopus!
 wordpress_id: 6099

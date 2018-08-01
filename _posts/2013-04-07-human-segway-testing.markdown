@@ -3,7 +3,7 @@ author: nkirkby
 comments: true
 date: 2013-04-07 03:49:33+00:00
 layout: post
-link: http://10.0.0.76/index.php/2013/04/06/human-segway-testing/
+
 slug: human-segway-testing
 title: human seg-testing
 wordpress_id: 1571

@@ -3,7 +3,7 @@ author: charlesg
 comments: true
 date: 2012-12-15 09:34:06+00:00
 layout: post
-link: http://10.0.0.76/index.php/2012/12/15/meeters/
+
 slug: meeters
 title: MEETERS!
 wordpress_id: 1173

@@ -3,7 +3,7 @@ author: loneoceans
 comments: true
 date: 2012-08-04 04:27:09+00:00
 layout: post
-link: http://10.0.0.76/index.php/2012/08/03/tesla-coil-2-lives-again/
+
 slug: tesla-coil-2-lives-again
 title: Tesla Coil 2 lives again!
 wordpress_id: 909

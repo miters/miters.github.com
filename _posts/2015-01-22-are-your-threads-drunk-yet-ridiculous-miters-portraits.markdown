@@ -3,7 +3,7 @@ author: nouyang
 comments: true
 date: 2015-01-22 04:28:30+00:00
 layout: post
-link: http://10.0.0.76/index.php/2015/01/21/are-your-threads-drunk-yet-ridiculous-miters-portraits/
+
 slug: are-your-threads-drunk-yet-ridiculous-miters-portraits
 title: are your threads drunk yet / ridiculous MITERS portraits
 wordpress_id: 5153

@@ -3,7 +3,7 @@ author: Bayley
 comments: true
 date: 2011-11-01 12:25:00+00:00
 layout: post
-link: http://10.0.0.76/index.php/2011/11/01/induction-heater/
+
 slug: induction-heater
 title: Induction Heater
 wordpress_id: 651

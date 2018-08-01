@@ -3,7 +3,7 @@ author: martian
 comments: true
 date: 2009-02-13 21:59:07+00:00
 layout: post
-link: http://10.0.0.76/index.php/2009/02/13/building-party/
+
 slug: building-party
 title: Building Party
 wordpress_id: 48

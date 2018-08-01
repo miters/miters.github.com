@@ -3,7 +3,7 @@ author: loneoceans
 comments: true
 date: 2013-05-17 16:16:00+00:00
 layout: post
-link: http://10.0.0.76/index.php/2013/05/17/drsstc-2/
+
 slug: drsstc-2
 title: DRSSTC 2
 wordpress_id: 1827

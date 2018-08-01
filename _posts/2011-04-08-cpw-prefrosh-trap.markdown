@@ -3,7 +3,7 @@ author: nouyang
 comments: true
 date: 2011-04-08 20:49:39+00:00
 layout: post
-link: http://10.0.0.76/index.php/2011/04/08/cpw-prefrosh-trap/
+
 slug: cpw-prefrosh-trap
 title: CPW! Prefrosh Trap!
 wordpress_id: 534

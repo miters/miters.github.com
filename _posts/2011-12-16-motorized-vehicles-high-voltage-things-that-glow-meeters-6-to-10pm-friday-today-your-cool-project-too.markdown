@@ -3,7 +3,7 @@ author: admin
 comments: true
 date: 2011-12-16 14:55:03+00:00
 layout: post
-link: http://10.0.0.76/index.php/2011/12/16/motorized-vehicles-high-voltage-things-that-glow-meeters-6-to-10pm-friday-today-your-cool-project-too/
+
 slug: motorized-vehicles-high-voltage-things-that-glow-meeters-6-to-10pm-friday-today-your-cool-project-too
 title: motorized vehicles, high voltage, things that glow! MEETERS, 6 to 10pm Friday
   (today); your cool project too?

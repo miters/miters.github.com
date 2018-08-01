@@ -3,7 +3,7 @@ author: nouyang
 comments: true
 date: 2015-01-22 03:12:22+00:00
 layout: post
-link: http://10.0.0.76/index.php/2015/01/21/over-six-months/
+
 slug: over-six-months
 title: over six months!
 wordpress_id: 5147

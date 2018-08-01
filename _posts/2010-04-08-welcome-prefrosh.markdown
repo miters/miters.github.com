@@ -3,7 +3,7 @@ author: admin
 comments: true
 date: 2010-04-08 01:13:13+00:00
 layout: post
-link: http://10.0.0.76/index.php/2010/04/07/welcome-prefrosh/
+
 slug: welcome-prefrosh
 title: WELCOME PREFROSH!!!
 wordpress_id: 302

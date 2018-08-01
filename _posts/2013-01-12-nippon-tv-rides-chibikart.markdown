@@ -4,7 +4,7 @@ comments: true
 date: 2013-01-12 07:25:49+00:00
 excerpt: Nippon TV rides chibikart!Japanese TV Visits MITERS!lol
 layout: post
-link: http://10.0.0.76/index.php/2013/01/12/nippon-tv-rides-chibikart/
+
 slug: nippon-tv-rides-chibikart
 title: Nippon TV rides chibikart!
 wordpress_id: 1217

@@ -3,7 +3,7 @@ author: martian
 comments: true
 date: 2009-02-20 16:00:51+00:00
 layout: post
-link: http://10.0.0.76/index.php/2009/02/20/yabp/
+
 slug: yabp
 title: YABP
 wordpress_id: 65

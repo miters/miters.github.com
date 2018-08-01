@@ -3,7 +3,7 @@ author: charlesg
 comments: true
 date: 2011-11-14 04:15:00+00:00
 layout: post
-link: http://10.0.0.76/index.php/2011/11/13/your-first-miters-project-is/
+
 slug: your-first-miters-project-is
 title: Your First MITERS Project Is?
 wordpress_id: 682

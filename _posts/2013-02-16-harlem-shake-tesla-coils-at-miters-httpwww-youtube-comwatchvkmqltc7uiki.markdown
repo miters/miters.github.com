@@ -11,7 +11,7 @@ excerpt: Harlem Shake + Tesla coils at MITERS! <a href="http://l.facebook.com/l.
   /><br />Do the Harlem Shake! <a href="http://l.facebook.com/l.php?u=http%3A%2F%2Fmiters.mit.edu%2F&amp;h=mAQHx2qGU&amp;s=1"
   rel="nofollow nofollow" target="_blank">http://miters.mit.edu/</a>
 layout: post
-link: http://10.0.0.76/index.php/2013/02/16/harlem-shake-tesla-coils-at-miters-httpwww-youtube-comwatchvkmqltc7uiki/
+
 slug: harlem-shake-tesla-coils-at-miters-httpwww-youtube-comwatchvkmqltc7uiki
 title: Harlem Shake + Tesla coils at MITERS! http://www.youtube.com/watch?v=kMQltc7uIKI
 wordpress_id: 1318

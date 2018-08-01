@@ -3,7 +3,7 @@ author: nouyang
 comments: true
 date: 2015-01-29 07:15:46+00:00
 layout: post
-link: http://10.0.0.76/index.php/2015/01/29/jan-29-2015-update-snow-shenanigans-green-growing-things-miters/
+
 slug: jan-29-2015-update-snow-shenanigans-green-growing-things-miters
 title: 'Jan 29, 2015 Update: Snow shenanigans, green growing things @ MITERS'
 wordpress_id: 5222

@@ -5,7 +5,7 @@ date: 2014-01-06 18:38:57+00:00
 excerpt: Machining a propeller on the MITERS DYNA-MYTE!  http://vimeo.com/83479749CNC
   Machining A Propellerbillet to propeller converter, some floppies required!
 layout: post
-link: http://10.0.0.76/index.php/2014/01/06/machining-a-propeller-on-the-miters-dyna-mytehttpvimeo-com83479749/
+
 slug: machining-a-propeller-on-the-miters-dyna-mytehttpvimeo-com83479749
 title: 'Machining a propeller on the MITERS DYNA-MYTE!
 

@@ -3,7 +3,7 @@ author: nouyang
 comments: true
 date: 2011-10-08 17:10:42+00:00
 layout: post
-link: http://10.0.0.76/index.php/2011/10/08/makerships-free-project-money-apps-due-oct-11/
+
 slug: makerships-free-project-money-apps-due-oct-11
 title: Makerships! (free project money!) apps due Oct 11
 wordpress_id: 627

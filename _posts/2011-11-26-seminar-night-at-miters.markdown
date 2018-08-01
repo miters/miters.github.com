@@ -3,7 +3,7 @@ author: charlesg
 comments: true
 date: 2011-11-26 03:49:43+00:00
 layout: post
-link: http://10.0.0.76/index.php/2011/11/25/seminar-night-at-miters/
+
 slug: seminar-night-at-miters
 title: Seminar Night at MITERS
 wordpress_id: 692

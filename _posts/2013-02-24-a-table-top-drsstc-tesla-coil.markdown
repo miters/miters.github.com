@@ -3,7 +3,7 @@ author: loneoceans
 comments: true
 date: 2013-02-24 06:24:24+00:00
 layout: post
-link: http://10.0.0.76/index.php/2013/02/24/a-table-top-drsstc-tesla-coil/
+
 slug: a-table-top-drsstc-tesla-coil
 title: A Table Top DRSSTC Tesla Coil
 wordpress_id: 1351

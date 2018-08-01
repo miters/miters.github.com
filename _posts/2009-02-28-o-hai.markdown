@@ -3,7 +3,7 @@ author: charlesg
 comments: true
 date: 2009-02-28 21:47:21+00:00
 layout: post
-link: http://10.0.0.76/index.php/2009/02/28/o-hai/
+
 slug: o-hai
 title: o hai
 wordpress_id: 69
