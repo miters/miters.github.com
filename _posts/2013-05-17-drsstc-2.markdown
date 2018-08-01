@@ -32,9 +32,8 @@ Specifications:
     - 208VAC input (2 leads from 3 Phase, though the coil was designed for 240VAC operation)
     - 13" x 3.5"Secondary, ~2000 turns
     - 16" x 4" Toroid (I want to get a spun one someday)
-**_
-  
-Video of the coil in action!**_
+
+<iframe width="800" height="450" src="https://www.youtube.com/embed/5OtWpwtRTvs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 For more information, please visit [www.loneoceans.com/labs/](www.loneoceans.com/labs/) - writeup with full details in progress!
 
